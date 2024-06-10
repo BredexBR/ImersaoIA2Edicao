@@ -29,8 +29,7 @@ def gerar_e_buscar_consulta(consulta, base, model):
 
 debug = False
 
-#GOOGLE_API_KEY="CHAVE-DA-API-AQUI"
-GOOGLE_API_KEY="AIzaSyCdlof-aD-0NSOTrVYENig4WD-yjftOPN8"
+GOOGLE_API_KEY="Coloque a chave da API aqui"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 if debug == True:
