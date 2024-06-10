@@ -1,16 +1,18 @@
-# Imersão Inteligência Artificial 2ª Edição
+# Imersão Inteligência Artificial - 2ª Edição
 
 ## Introdução
-O objetivo deste projeto foi criar programas utilizando a API da gemini IA da Google, a fim de estudos.
-Feito a partir de um evento chamado: "Imersão Inteligência Artificial 2ª Edição". Uma parceria entre a FIAP, Alura e a Google.
+O objetivo deste projeto foi criar programas utilizando a API Gemini IA da Google para estudos, desenvolvido durante o evento "Imersão Inteligência Artificial - 2ª Edição", uma parceria entre a FIAP, Alura e Google.
 
 ## Programas
-imersaoIA4: Criar um chatbot simples. Quando desejar parar de conversar apenas digitar "fim".
-imersaoIA4: Criar embeddings e atraves destas inserir um documento a respeito do carro do google e fazer pesquisas em cima deste documento.
+**imersaoIA4:**
+- Criar um chatbot simples. Para encerrar a conversa, basta digitar "fim".
+
+**imersaoIA4:**
+- Criar embeddings e, através deles, inserir um documento sobre o carro do Google e realizar pesquisas com base nesse documento.
 
 ## Bibliotecas/Ferramentas
-Foi necessario baixar as bibliotecas:
+Foi necessário instalar as seguintes bibliotecas:
 
-pip install -q -U google-generativeai
-pip install numpy
-pip install pandas
+- `pip install -q -U google-generativeai`
+- `pip install numpy`
+- `pip install pandas`
